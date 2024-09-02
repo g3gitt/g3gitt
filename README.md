@@ -7,7 +7,7 @@ Here are a few of the projects I’ve been working on:
 
 - [**The Classic Snake Game in JavaScript**](https://github.com/g3gitt/SnakeGameJs): Who wouldn't wanna relive the nostalgic snake game? [**Try it Out!**](https://snake-game-js-sigma.vercel.app/)
 - [**Snake Game in C++**](https://github.com/g3gitt/SnakeGame): Experience the classic snake game in the power of C++.
-- [**Harry Potter Wordle**](https://github.com/g3gitt/HarryPotterWordle): Test your magical names with this Harry Potter-themed Wordle!
+- [**Harry Potter : Guess The Names**](https://github.com/g3gitt/GuessTheName): Test your magical names with this Harry Potter-themed game!
 
 
 
